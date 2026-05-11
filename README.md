@@ -1,11 +1,11 @@
-<h1 align="center">Kenny Wu</h1>
+<h1 align=""center"">Kenny Wu</h1>
 
-<p align="center">
+<p align=""center"">
   building language machines, agent workflows, and tools for thought
 </p>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=KKenny0&repo=KKenny0&countColor=%237B1E7A" alt="profile visitors" />
+<p align=""center"">
+  <code>agents</code> · <code>language systems</code> · <code>knowledge tools</code> · <code>useful traces</code>
 </p>
 
 ```txt
@@ -46,6 +46,6 @@ If you are building something around agents, language, memory, or knowledge work
 
 ---
 
-<p align="center">
+<p align=""center"">
   <i>Build with intent. Leave useful traces.</i>
 </p>
