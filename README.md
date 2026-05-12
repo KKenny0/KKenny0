@@ -42,7 +42,7 @@ identity:
 
 I like tools that feel like extensions of thought: quiet, fast, composable, and just dangerous enough in the right hands.
 
-If you are building something around agents, language, memory, or knowledge work, say hi.
+If you are building something around LLMs, agents, language, memory, or knowledge work, say hi.
 
 ---
 
