@@ -19,27 +19,6 @@ taste       small tools, sharp interfaces, useful traces
 signal      context in, clarity out
 ```
 
-```yaml
-identity:
-  builds:
-    - agent systems that keep their context
-    - language tools that turn noise into signal
-    - knowledge workflows for people who think in fragments
-    - practical AI products with a little edge
-
-  biases:
-    - small tools > big promises
-    - useful traces > perfect docs
-    - interfaces should feel fast, quiet, and inevitable
-    - taste is part of engineering
-
-  open_to:
-    - collaborations
-    - research prototypes
-    - agent infrastructure
-    - weird useful ideas
-```
-
 I like tools that feel like extensions of thought: quiet, fast, composable, and just dangerous enough in the right hands.
 
 If you are building something around LLMs, agents, language, memory, or knowledge work, say hi.
