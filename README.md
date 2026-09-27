@@ -1,4 +1,10 @@
-<h1 align="center">Kenny Wu</h1>
+<p align="center">
+  <img
+    src="./assets/kenny-banner.png"
+    alt="野生肯尼 Kenny Ponders — 在 AI 与哲学的荒野中，做探索未知的漫游者"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   building language machines, agent workflows, and tools for thought
